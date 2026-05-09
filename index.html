@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ESSIQUE Cyriaque – Développeur Android Indépendant</title>
+
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #111827;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --accent: #22c55e;
+      --border: #1f2937;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #020617;
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 0;
+    }
+
+    .banner {
+      width: 100%;
+      border-radius: 18px;
+      overflow: hidden;
+      margin-bottom: 35px;
+      border: 1px solid var(--border);
+      box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+    }
+
+    .banner img {
+      width: 100%;
+      display: block;
+    }
+
+    .hero {
+      background: var(--card);
+      padding: 35px;
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      margin-bottom: 15px;
+      color: white;
+      font-size: 1.5rem;
+    }
+
+    p {
+      margin-bottom: 18px;
+      color: var(--text);
+    }
+
+    ul {
+      margin-left: 20px;
+      margin-bottom: 20px;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      font-size: 1.1rem;
+    }
+
+    .playstore {
+      display: inline-block;
+      margin-top: 25px;
+      padding: 14px 22px;
+      background: var(--accent);
+      color: #000;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: 0.2s ease;
+    }
+
+    .playstore:hover {
+      transform: translateY(-2px);
+      opacity: 0.9;
+    }
+
+    .card {
+      background: var(--card);
+      padding: 30px;
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      margin-bottom: 25px;
+    }
+
+    .legal {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .footer {
+      margin-top: 40px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .info-box {
+      background: #0b1220;
+      padding: 20px;
+      border-radius: 14px;
+      border: 1px solid var(--border);
+    }
+
+    .info-box strong {
+      color: white;
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      .hero,
+      .card {
+        padding: 22px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- Bannière -->
+    <div class="banner">
+      <img src="banner-768x512.png" alt="Bannière ESSIQUE Cyriaque" />
+    </div>
+
+    <!-- Présentation -->
+    <section class="hero">
+      <h1>ESSIQUE Cyriaque</h1>
+
+      <p class="subtitle">
+        Développeur Android indépendant spécialisé dans la conception
+        et la publication d’applications mobiles sur Google Play.
+      </p>
+
+      <p>
+        Mon travail se concentre sur la création d’applications simples,
+        efficaces et faciles à utiliser, incluant des outils créatifs
+        et des bibliothèques de contenus numériques.
+      </p>
+
+      <a class="playstore"
+         href="https://play.google.com/store/apps/dev?id=5887639728261282248"
+         target="_blank">
+        Voir mes applications sur Google Play
+      </a>
+    </section>
+
+    <!-- Informations légales -->
+    <section class="card">
+      <h2>⚖️ Informations légales – Applications Android</h2>
+
+      <p class="legal">
+        Page unique valable pour l’ensemble des applications publiées par l’éditeur.
+      </p>
+
+      <div class="info-grid">
+
+        <div class="info-box">
+          <strong>Éditeur</strong>
+          ESSIQUE Cyriaque
+        </div>
+
+        <div class="info-box">
+          <strong>Statut juridique</strong>
+          Entrepreneur individuel (micro-entreprise)
+        </div>
+
+        <div class="info-box">
+          <strong>Activité</strong>
+          Développement et édition d’applications mobiles
+        </div>
+
+        <div class="info-box">
+          <strong>Code APE</strong>
+          6201Z – Programmation informatique
+        </div>
+
+        <div class="info-box">
+          <strong>SIRET</strong>
+          878248301
+        </div>
+
+        <div class="info-box">
+          <strong>Adresse</strong>
+          Saint-Girons (09) – France
+        </div>
+
+        <div class="info-box">
+          <strong>Email</strong>
+          <a href="mailto:cyriaque.essique@gmail.com">
+            cyriaque.essique@gmail.com
+          </a>
+        </div>
+
+        <div class="info-box">
+          <strong>TVA</strong>
+          TVA non applicable – article 293 B du CGI
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Champ d'application -->
+    <section class="card">
+      <h2>Champ d’application</h2>
+
+      <p>
+        La présente page s’applique à l’ensemble des applications mobiles Android
+        publiées par l’éditeur sur le Google Play Store, quels que soient :
+      </p>
+
+      <ul>
+        <li>leur modèle économique (gratuit ou payant),</li>
+        <li>leur type de contenu (outils, contenus numériques, bibliothèques, créations),</li>
+        <li>la présence ou non d’abonnements ou d’achats intégrés.</li>
+      </ul>
+    </section>
+
+    <!-- Données personnelles -->
+    <section class="card">
+      <h2>Données personnelles et confidentialité</h2>
+
+      <p>
+        Les applications éditées ne collectent pas de données personnelles nominatives
+        permettant d’identifier directement les utilisateurs, sauf mention contraire
+        spécifique à une application.
+      </p>
+
+      <p>
+        Certaines données peuvent être traitées directement par Google dans le cadre
+        de la distribution des applications, notamment pour :
+      </p>
+
+      <ul>
+        <li>le téléchargement,</li>
+        <li>les paiements,</li>
+        <li>les abonnements,</li>
+        <li>la sécurité et la prévention de la fraude.</li>
+      </ul>
+
+      <p>
+        Ces traitements relèvent de la responsabilité exclusive de Google
+        et sont effectués conformément à leur propre politique de confidentialité.
+      </p>
+
+      <p>
+        Les contenus et fichiers téléchargés par l’utilisateur sont stockés
+        localement sur son appareil, sauf indication contraire propre à une application.
+      </p>
+    </section>
+
+    <!-- Paiements -->
+    <section class="card">
+      <h2>Achats, abonnements et paiements</h2>
+
+      <p>
+        Certaines applications peuvent proposer :
+      </p>
+
+      <ul>
+        <li>des achats intégrés,</li>
+        <li>des abonnements,</li>
+        <li>des contenus ou fonctionnalités payantes.</li>
+      </ul>
+
+      <p>
+        Tous les paiements sont gérés exclusivement par Google Play,
+        conformément à ses conditions générales.
+      </p>
+
+      <p>L’éditeur :</p>
+
+      <ul>
+        <li>ne traite aucun paiement directement,</li>
+        <li>n’a pas accès aux données bancaires,</li>
+        <li>ne gère pas les remboursements.</li>
+      </ul>
+
+      <p>
+        Toute demande relative aux paiements, abonnements ou remboursements
+        doit être adressée directement à Google Play.
+      </p>
+    </section>
+
+    <!-- Propriété intellectuelle -->
+    <section class="card">
+      <h2>Contenus et propriété intellectuelle</h2>
+
+      <p>
+        Les contenus proposés dans les applications
+        (textes, images, éléments graphiques, fonctionnalités)
+        sont protégés par le droit de la propriété intellectuelle.
+      </p>
+
+      <p>
+        Ils sont mis à disposition des utilisateurs dans le cadre
+        d’une licence d’usage personnel.
+      </p>
+
+      <p>
+        Sauf autorisation expresse, toute reproduction, redistribution,
+        revente, diffusion publique ou utilisation commerciale est interdite.
+      </p>
+    </section>
+
+    <!-- IA -->
+    <section class="card">
+      <h2>Contenus générés par intelligence artificielle</h2>
+
+      <p>
+        Certains contenus proposés dans les applications peuvent être générés
+        à l’aide de technologies d’intelligence artificielle.
+      </p>
+
+      <p>
+        L’éditeur ne garantit pas l’exclusivité absolue de ces contenus
+        et ne saurait être tenu responsable d’éventuelles similarités
+        avec des contenus existants.
+      </p>
+    </section>
+
+    <!-- Responsabilité -->
+    <section class="card">
+      <h2>Responsabilité</h2>
+
+      <p>
+        Les applications sont fournies « en l’état ».
+      </p>
+
+      <p>
+        L’éditeur ne garantit pas l’absence d’erreurs,
+        d’interruptions ou d’éventuelles incompatibilités,
+        et ne saurait être tenu responsable des dommages directs
+        ou indirects résultant de l’utilisation des applications.
+      </p>
+    </section>
+
+    <!-- Contact -->
+    <section class="card">
+      <h2>Contact</h2>
+
+      <p>
+        Pour toute question relative aux applications
+        ou aux informations légales :
+      </p>
+
+      <p>
+        📧
+        <a href="mailto:cyriaque.essique@gmail.com">
+          cyriaque.essique@gmail.com
+        </a>
+      </p>
+    </section>
+
+    <!-- Mise à jour -->
+    <section class="card">
+      <h2>Mise à jour</h2>
+
+      <p>
+        Ces informations légales peuvent être modifiées à tout moment.
+      </p>
+
+      <p>
+        La version applicable est celle disponible sur cette page.
+      </p>
+    </section>
+
+    <div class="footer">
+      © 2026 – ESSIQUE Cyriaque
+    </div>
+
+  </div>
+
+</body>
+</html>
