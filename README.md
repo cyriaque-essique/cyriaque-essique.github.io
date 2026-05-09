@@ -1,0 +1,114 @@
+ESSIQUE Cyriaque 
+Je suis un développeur Android indépendant spécialisé dans la conception et la publication d’applications mobiles sur Google Play.
+
+Mon travail se concentre sur la création d’applications simples, efficaces et faciles à utiliser, incluant des outils créatifs et des bibliothèques de contenus numériques.
+
+⚖️ Informations légales – Applications Android
+(Page unique valable pour l’ensemble des applications publiées par l’éditeur)
+
+
+Éditeur
+Nom / Prénom : ESSIQUE Cyriaque
+Statut juridique : Entrepreneur individuel (micro-entreprise)
+Activité : Développement et édition d’applications mobiles
+Code APE : 6201Z – Programmation informatique
+SIRET : 878248301
+Adresse : Saint-Girons (09)
+Pays : France
+Email de contact : cyriaque.essique@gmail.com
+
+TVA non applicable – article 293 B du CGI.
+
+
+Champ d’application
+La présente page s’applique à l’ensemble des applications mobiles Android publiées par l’éditeur sur le Google Play Store, quels que soient :
+
+leur modèle économique (gratuit ou payant),
+
+
+leur type de contenu (outils, contenus numériques, bibliothèques, créations),
+
+
+la présence ou non d’abonnements ou d’achats intégrés.
+
+
+
+Données personnelles et confidentialité
+Les applications éditées ne collectent pas de données personnelles nominatives permettant d’identifier directement les utilisateurs, sauf mention contraire spécifique à une application.
+
+Certaines données peuvent être traitées directement par Google dans le cadre de la distribution des applications, notamment pour :
+
+le téléchargement,
+
+
+les paiements,
+
+
+les abonnements,
+
+
+la sécurité et la prévention de la fraude.
+
+
+Ces traitements relèvent de la responsabilité exclusive de Google et sont effectués conformément à leur propre politique de confidentialité.
+
+Les contenus et fichiers téléchargés par l’utilisateur sont stockés localement sur son appareil, sauf indication contraire propre à une application.
+
+
+Achats, abonnements et paiements
+Certaines applications peuvent proposer :
+
+des achats intégrés,
+
+
+des abonnements,
+
+
+des contenus ou fonctionnalités payantes.
+
+
+Tous les paiements sont gérés exclusivement par Google Play, conformément à ses conditions générales.
+
+L’éditeur :
+
+ne traite aucun paiement directement,
+
+
+n’a pas accès aux données bancaires,
+
+
+ne gère pas les remboursements.
+
+
+Toute demande relative aux paiements, abonnements ou remboursements doit être adressée directement à Google Play.
+
+
+Contenus et propriété intellectuelle
+Les contenus proposés dans les applications (textes, images, éléments graphiques, fonctionnalités) sont protégés par le droit de la propriété intellectuelle.
+
+Ils sont mis à disposition des utilisateurs dans le cadre d’une licence d’usage personnel.
+
+Sauf autorisation expresse, toute reproduction, redistribution, revente, diffusion publique ou utilisation commerciale est interdite.
+
+
+Contenus générés par intelligence artificielle
+Certains contenus proposés dans les applications peuvent être générés à l’aide de technologies d’intelligence artificielle.
+
+L’éditeur ne garantit pas l’exclusivité absolue de ces contenus et ne saurait être tenu responsable d’éventuelles similarités avec des contenus existants.
+
+
+Responsabilité
+Les applications sont fournies « en l’état ».
+
+L’éditeur ne garantit pas l’absence d’erreurs, d’interruptions ou d’éventuelles incompatibilités, et ne saurait être tenu responsable des dommages directs ou indirects résultant de l’utilisation des applications.
+
+
+Contact
+Pour toute question relative aux applications ou aux informations légales :
+📧 cyriaque.essique@gmail.com
+
+
+Mise à jour
+Ces informations légales peuvent être modifiées à tout moment.
+La version applicable est celle disponible sur cette page.
+
